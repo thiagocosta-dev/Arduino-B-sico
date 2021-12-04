@@ -1,2 +1,2 @@
-# Arduino-B-sico
+# Arduino Básico
 Algumas atividades de Introdução ao Arduino Uno.
